@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Coderhmparvez
 #### I am Web Developer
-![I am Web Developer](https://www.facebook.com/coderparvez)
+![I am Web Developer]
 
 I specialize in the development of high-end, user-oriented, robust, and scale-able WordPress websites. I have an experience with a large range of projects including but not limited to blogs, e-commerce, agency, directory listing, job portal, real estate, and many more.
 
